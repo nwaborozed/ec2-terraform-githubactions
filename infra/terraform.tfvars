@@ -1,1 +1,1 @@
-key_name = "realcloud-ec2-key"
+key_name = "ozycloud-ec2-key"
