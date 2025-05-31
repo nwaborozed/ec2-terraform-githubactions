@@ -1,1 +1,1 @@
-bucket_name = "realcloud-tfstate-bucket-001"
+bucket_name = "ozycloud-tfstate-bucket-001"
